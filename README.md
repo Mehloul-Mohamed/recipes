@@ -1,2 +1,2 @@
 # recipes
-Recipes project from theodinproject.com
+Basic recipes website built using html
