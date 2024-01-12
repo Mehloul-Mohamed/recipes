@@ -1,0 +1,29 @@
+body {
+  color:white;
+  font-size:17pt;
+  background-image:linear-gradient(to bottom, #001E1F,#002C2D);
+  text-align:center;
+}
+h1 {
+  text-shadow: 0px 0px 90px #000000;
+  font-size:80pt;
+}
+h2 {
+  text-shadow: 0px 0px 30px #1111111;
+  font-size:40pt;
+}
+.link {
+  display:block;
+  font-weight:500;
+  color:#FCFCFC;
+  font-size:29pt;
+}
+img {
+  display:block;
+  margin:auto;
+  box-shadow:0px 0px 90px #000000;
+}
+ul,ol {
+  display:inline-block;
+  margin-left:-34pt;
+}
